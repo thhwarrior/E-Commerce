@@ -1,6 +1,10 @@
+#E-Commerce
+
 Write npm run dev in the main directory to run backend.
 
 Write npm start in ./frontend to run frontend.
+
+Set values for PORT, DB_URI, JWT_SECRET, JWT_EXPIRE, COOKIE_EXPIRE, SMPT_SERVICE, SMPT_MAIL, SMPT_PASSWORD, SMPT_HOST, SMPT_PORT in ./backend/config/config.env with your own respective values for the project to work
 
 You might get an error for react-icons after installing modules and running the project. Go to ./frontend/node_modules/react icons and delete io5 and hi2 folder.
 
