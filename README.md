@@ -1,3 +1,5 @@
+ A complete E-Commerce website with everything from admin dashboard, product pages, payment and delivery system, beautiful front-end, and optimised back-end, made with MERN.
+
 #E-Commerce
 
 Write npm run dev in the main directory to run backend.
